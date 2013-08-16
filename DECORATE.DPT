@@ -1,0 +1,16 @@
+//------------------------------------//------------------------------------//------------------------------------//
+// DPT DECORATE FILE, VER 1.04 [without internal version numbers]
+//------------------------------------//------------------------------------//------------------------------------//
+// Programming Language: DECORATE;	""//DPT.DECORATE [comming soon]
+//------------------------------------//------------------------------------//------------------------------------//
+/*
+//All content fully free, but the distribution of all content is under DartPower's License Free Information v4.1
+//For advice about the license, please write to the author to http://vk.com/dartpower
+//We accept no liability for legal persons, we hate "Corporations".
+*/
+//------------------------------------//------------------------------------//------------------------------------//
+#INCLUDE "ACTORS/PREDEFINES.DPT"
+#INCLUDE "ACTORS/MONSTERS.DPT"
+#INCLUDE "ACTORS/WEAPONS.DPT"
+#INCLUDE "ACTORS/DOOMPLAYER.DPT"
+#INCLUDE "ACTORS/ETC.DPT"
